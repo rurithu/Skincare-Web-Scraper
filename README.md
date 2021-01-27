@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-I have always struggled with finding skincare that works for me, and scrolling through pages of pages of products usually leaves me even more confused with 100* tabs opened on my browser. I created a Web Scraper that Scrapes through Skincare products on the ULTA website.
+I have always struggled with finding skincare that works for me, and scrolling through pages of pages of products usually leaves me even more confused with 100+ tabs opened on my browser, so I created a Web Scraper that Scrapes through Skincare products on the ULTA website that I can filter for my preferences.
 
 ## Tools 
 
